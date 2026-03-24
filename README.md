@@ -23,7 +23,9 @@
 * Download and unzip `HorizonXI-Dynamis-Mobdb-main` here: https://github.com/Mr-Sithel/HorizonXI-Dynamis-Mobdb/releases
 
 - For Mobdb copy the Mobdb folder to `HorizonXI\Game\addons`
+  - Mobdb setting `$job` to show mob job
 - For XIUI copy the Mobdb folder to `HorizonXI\Game\addons\xiui\submodules\mobdb\addons`
+  - xiui setting Traget Bar - Mob Info - Check `show job`
 
 #### Credit
 
