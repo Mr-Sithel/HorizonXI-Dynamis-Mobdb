@@ -20,7 +20,7 @@
 
 ### Installation
 
-* Download and unzip the
+* Download and unzip `HorizonXI-Dynamis-Mobdb-main` here: https://github.com/Mr-Sithel/HorizonXI-Dynamis-Mobdb/releases
 
 - For Mobdb copy the Mobdb folder to `HorizonXI\Game\addons`
 - For XIUI copy the Mobdb folder to `HorizonXI\Game\addons\xiui\submodules\mobdb\addons`
