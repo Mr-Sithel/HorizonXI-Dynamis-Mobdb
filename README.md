@@ -38,7 +38,7 @@ Provide a screenshot of the mob name or best way would be load addon [Mobdb](htt
   - Edit Tokens
     - Under "Mob Targeted"
 
-$index - $job - $job
+$index - $name - $job
 
 Output
 
