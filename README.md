@@ -27,6 +27,22 @@
 - For XIUI copy the Mobdb folder to `HorizonXI\Game\addons\xiui\submodules\mobdb\addons`
   - xiui setting Traget Bar - Mob Info - Check `show job`
 
+### Issues
+
+If you find missing NM/Mobs job report it here: [Issues](https://github.com/Mr-Sithel/HorizonXI-Dynamis-Mobdb/issues)
+I'll do my best to correct it.
+
+Provide a screen shot of the mob name or best way would be load addon [Mobdb](https://github.com/ThornyFFXI/mobdb)
+- /mobdb
+  - Edit Tokens
+    - Under "Mob Targeted"
+
+$index - $job - $job
+
+Output
+![hximobdb](https://github.com/Mr-Sithel/HorizonXI-Dynamis-Mobdb/blob/main/index_example.png?raw=true)
+
+
 #### Credit
 
 Originally created by [Thorny](https://github.com/ThornyFFXI/mobdb)
