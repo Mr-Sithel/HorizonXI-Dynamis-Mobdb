@@ -33,7 +33,7 @@ If you find missing NM/Mobs job report it here: [Issues](https://github.com/Mr-S
 
 I'll do my best to correct it.
 
-Provide a screen shot of the mob name or best way would be load addon [Mobdb](https://github.com/ThornyFFXI/mobdb)
+Provide a screenshot of the mob name or best way would be load addon [Mobdb](https://github.com/ThornyFFXI/mobdb)
 - /mobdb
   - Edit Tokens
     - Under "Mob Targeted"
