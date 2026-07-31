@@ -30,6 +30,7 @@
 ### Issues
 
 If you find missing NM/Mobs job report it here: [Issues](https://github.com/Mr-Sithel/HorizonXI-Dynamis-Mobdb/issues)
+
 I'll do my best to correct it.
 
 Provide a screen shot of the mob name or best way would be load addon [Mobdb](https://github.com/ThornyFFXI/mobdb)
@@ -40,6 +41,7 @@ Provide a screen shot of the mob name or best way would be load addon [Mobdb](ht
 $index - $job - $job
 
 Output
+
 ![hximobdb](https://github.com/Mr-Sithel/HorizonXI-Dynamis-Mobdb/blob/main/index_example.png?raw=true)
 
 
